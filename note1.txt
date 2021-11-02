@@ -1,0 +1,1 @@
+What is RPA? Is it different from automation in general? Is UiPath truly the market leader? We promise to answer all these questions and assist you in building your first automation using our automation tool for business users–UiPath StudioX.
